@@ -1,1 +1,1 @@
-dHJvamFuOi8vTk1OQkxPbmtOOVZ0YUVwZEB2cG4udGlhbnRoZXIudG9wOjc1MzU/c25pPXZwbi50aWFudGhlci50b3AjTG9zJTIwQW5nZWxlcyUyOFRUJTI5
+trojan://NMNBLOnkN9VtaEpd@vpn.tianther.top:7535?sni=vpn.tianther.top#Los%20Angeles%28TT%29
